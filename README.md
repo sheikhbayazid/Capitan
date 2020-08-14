@@ -1,4 +1,4 @@
 # Capitan
 
 # Screenshot
-![](Screenshot/screenshot.gif =320x665)
+<img src="Screenshot/screenshot.gif" width="320" height="665" />
