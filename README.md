@@ -1,4 +1,4 @@
 # Capitan
 
 # Screenshot
-![](Screenshots/screenshot.gif)
+![](Screenshot/screenshot.gif width="300px)
