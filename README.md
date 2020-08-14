@@ -1,4 +1,4 @@
 # Capitan
 
-#Screenshot
+# Screenshot
 ![](Screenshots/screenshot.gif)
